@@ -33,3 +33,26 @@
 
 ### Aqui podemos ver como funciona los enlaces para compartir y como se puden configurar 
 
+
+### Ahora veremos como entrar desde un dispositivo remoto
+![Captura desde 2025-05-10 21-19-16](https://github.com/user-attachments/assets/52fea1c5-6cb5-419e-b2a4-0a72f53de4ed)
+![Captura desde 2025-05-10 21-22-45](https://github.com/user-attachments/assets/ceb7ddb2-d21b-4666-bec7-0be6ef001311)
+![Captura desde 2025-05-10 21-20-56](https://github.com/user-attachments/assets/eb29a730-1984-48ea-8ecb-e428a6f377cb)
+![Captura desde 2025-05-10 21-21-26](https://github.com/user-attachments/assets/2d1b2539-673b-4662-bacf-9eac5f4c4d04)
+![Captura desde 2025-05-14 18-45-16](https://github.com/user-attachments/assets/47850e03-29c5-453a-bc10-c10d86e0a573)
+![Captura desde 2025-05-14 18-45-42](https://github.com/user-attachments/assets/78d24148-c031-4431-9ed5-5588add07bef)
+![Captura desde 2025-05-14 18-45-59](https://github.com/user-attachments/assets/86479948-bc5c-4441-9cdb-db68f1cf9dcf)
+![Captura desde 2025-05-14 18-46-29](https://github.com/user-attachments/assets/0e7650a1-87cb-4c67-a9ad-7ba24794083e)
+
+### En este paso hemos configurado los archivos ahora toca la base de datos.
+
+![Captura desde 2025-05-14 18-47-02](https://github.com/user-attachments/assets/9d7e72e5-3994-42fe-91e8-5c1ac436ed94)
+![Captura desde 2025-05-14 18-47-26](https://github.com/user-attachments/assets/74e65ae4-8d7b-4dc3-86f2-ceaad330242a)
+![Captura desde 2025-05-14 18-47-52](https://github.com/user-attachments/assets/33a1a802-4e29-4654-bd56-5b9ba1894636)
+
+### Ahora comprobaremos que todo ha salido bien
+![Captura desde 2025-05-14 18-48-27](https://github.com/user-attachments/assets/9a22a3d7-0796-4664-9acd-670460a6ee2c)
+![Captura desde 2025-05-14 18-49-51](https://github.com/user-attachments/assets/6f8b6afa-9030-4c18-9b5e-d4903efe5bf4)
+![Captura desde 2025-05-14 18-50-00](https://github.com/user-attachments/assets/d2c3f0dc-2ab1-45c9-b48d-162485925983)
+
+### Y ya estaria todo configurado
