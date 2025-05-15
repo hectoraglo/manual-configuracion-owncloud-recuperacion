@@ -35,6 +35,13 @@
 
 
 ### Ahora veremos como entrar desde un dispositivo remoto
+
+### Primero cambiaremos la red de nuestra maquina 
+
+![Captura de pantalla de 2025-05-15 10-03-33](https://github.com/user-attachments/assets/c1267875-c760-495e-b957-4478eba9a8fa)
+
+
+### Ahora empezaremos con los comandos 
 ![Captura desde 2025-05-10 21-19-16](https://github.com/user-attachments/assets/52fea1c5-6cb5-419e-b2a4-0a72f53de4ed)
 ![Captura desde 2025-05-10 21-22-45](https://github.com/user-attachments/assets/ceb7ddb2-d21b-4666-bec7-0be6ef001311)
 ![Captura desde 2025-05-10 21-20-56](https://github.com/user-attachments/assets/eb29a730-1984-48ea-8ecb-e428a6f377cb)
